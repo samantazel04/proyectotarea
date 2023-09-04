@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace proyectotarea
 {
-    internal class Program
+    public class Estopaul
     {
-        static void Main(string[] args)
+        public void reportes()
         {
+            Console.WriteLine("Esto lo hizo Paul");
         }
     }
 }
