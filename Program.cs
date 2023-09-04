@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace proyectotarea
+namespace proyecto
 {
-    public class Estopaul
+    public class Proyecto
     {
-        public void reportes()
+        public void reportedavi()
         {
-            Console.WriteLine("Esto lo hizo Paul");
+            Console.WriteLine("David Gonzalez trabajo");
         }
     }
 }
